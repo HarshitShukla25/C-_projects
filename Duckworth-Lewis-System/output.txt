@@ -1,0 +1,9 @@
+This is a program to calculate the DLS par score for the teams in a One Day Cricket Match based on the Duckworth-Lewis System [Standard Edition] 2003.
+Enter the number of interruptions during the match: 
+In which innings did the 1th interruption occur: 
+Enter the overs left when the play stopped.: 
+Enter the wickets gone when the play stopped
+Enter the overs left when the play resumed: 
+100 85.7Enter the G50 as per the standards.(G50 stands for the average score in a 50 over ODI match.
+Enter the final score of Team 1 at the end of its innings.
+0.857The DLS par score is: 229
